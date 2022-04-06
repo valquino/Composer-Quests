@@ -1,0 +1,16 @@
+{
+    "name": "titi/avancees",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Titi\\Avancees\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "titiphenom-wcs",
+            "email": "valentino-quinola_student2022@wilder.school"
+        }
+    ],
+    "require": {}
+}
